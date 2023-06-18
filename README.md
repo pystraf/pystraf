@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning C++ algorithms
 - 📫 How to reach me: Email pystraf@163.com
 
-I'm in Huizhou, China now.
